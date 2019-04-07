@@ -1,0 +1,4 @@
+package Crossrary
+
+class Book {
+}
